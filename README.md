@@ -39,5 +39,5 @@ This structure will help keep implementations organized and easy to navigate as 
 ## Connect With Me
 Feel free to connect to discuss ideas, provide feedback, or just say hi!  
 
-- **GitHub:** [https://github.com/your-github-sainithinpamulaparthi](https://github.com/your-github-sainithinpamulaparthi)  
+- **GitHub:** [https://github.com/sainithinpamulaparthi](https://github.com/sainithinpamulaparthi)  
 - **LinkedIn:** [https://linkedin.com/in/sainithinpamulaparthi](https://linkedin.com/in/sainithinpamulaparthi)
