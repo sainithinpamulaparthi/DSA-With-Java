@@ -194,5 +194,6 @@ for(int i=0;i<n;i++)
     System.out.println(a*(i+1));
 }
 
+sc.close();
 }
 }

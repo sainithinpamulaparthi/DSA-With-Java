@@ -39,6 +39,7 @@ public class One {
         int x = sc.nextInt();
 
         System.out.println(Netflix(a, b, c, x));
+        sc.close();
     }
 
     static String Netflix(int a, int b, int c, int x) {

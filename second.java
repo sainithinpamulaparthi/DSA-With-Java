@@ -10,5 +10,6 @@ int months=(n%365)/30;
 int weeks=((n%365)%30)/7;
 int days=(((n%365)%30)%7);
 System.out.println(years+"years "+months+"months "+weeks+"weeks "+days+"days");
-  }  
+ sc.close();  
+}  
 }

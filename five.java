@@ -45,6 +45,7 @@ int a=sc.nextInt();
 int c=sc.nextInt();
 int d=sc.nextInt();
 System.out.print(range(a,c,d));
+sc.close();
 }
 }
 

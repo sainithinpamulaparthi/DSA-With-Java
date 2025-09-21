@@ -11,5 +11,6 @@ else if(x<=z)
 System.out.println(2);
 else
 System.out.println(0);
-    }
+   sc.close();
+ }
 }

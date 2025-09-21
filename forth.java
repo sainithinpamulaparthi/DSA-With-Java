@@ -20,5 +20,6 @@ else if(m>=0 && m<=35)
 System.out.println("Fail");
 else
 System.out.println("Invalid");
-  }  
+sc.close(); 
+}  
 }

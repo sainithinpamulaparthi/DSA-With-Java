@@ -7,5 +7,6 @@ if(a%2==0)
     System.out.println("It is even so"+a/2);
 else
     System.out.println("It is Odd so"+a*2);
-  }  
+sc.close();
+}  
 }
