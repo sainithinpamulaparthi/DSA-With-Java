@@ -15,6 +15,7 @@ for(int i=0;i<n;i++){
     System.out.print(arr[i]+" ");
 }*/
 
+    
 //System.out.println(arr);
 //int[] arr=/*new int[5];*/{4,5,7,8,9,1,2,3,6};
 //arr[0]=100;
@@ -113,3 +114,4 @@ for(int i=0;i<n;i++){
 sc.close();
 }
 }
+
