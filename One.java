@@ -18,7 +18,7 @@ public class One {
             return "NO";
     }
 }
-**/
+**/    
 import java.util.*;
 
 public class One {
