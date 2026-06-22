@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../DSA_JAVA"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"editor.inlineSuggest.edits.allowCodeShifting": "never",
+		"editor.inlineSuggest.edits.renderSideBySide": "never"
+	}
+}
