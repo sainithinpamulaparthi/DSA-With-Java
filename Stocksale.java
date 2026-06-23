@@ -14,3 +14,4 @@ class Stocksale {
        System.out.println(maxProfit(prices));
    }
 }
+
